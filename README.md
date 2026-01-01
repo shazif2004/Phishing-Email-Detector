@@ -28,16 +28,8 @@ The detector tells you:
 - Which suspicious features it found
 - Scores from both models for comparison
 
-## Why This Project
-
-This shows how simple probability can solve real problems. Phishing costs billions annually and this demonstrates a practical ML solution using only basic statistics. No complex libraries or neural networks needed.
-
-The code is clean, well-documented, and easy to understand. Good for learning how text classification works or as a portfolio piece.
-
 ## Limitations
 
 Needs training data to work. Cannot detect completely new phishing tactics. Does not check email headers or sender reputation. Works best with 100+ examples of each type.
 
-## Requirements
 
-Python 3.6+ only. No external dependencies.
